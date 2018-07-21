@@ -1,0 +1,7 @@
+s/*
+*.bin
+*.lst
+*.tap
+*.wav
+*.swp
+*.core
